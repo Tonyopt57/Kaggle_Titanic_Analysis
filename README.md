@@ -39,9 +39,6 @@ https://www.kaggle.com/c/titanic/data
   
 
 
- ![model_evaluation](img/model_evaluation.JPG)
-
-
 ## 4. Workflow of data  
 - Classifying. We may want to classify or categorize our samples. We may also want to understand the implications or correlation of different classes with our solution goal.
 
@@ -58,4 +55,5 @@ https://www.kaggle.com/c/titanic/data
 - Charting. How to select the right visualization plots and charts depending on nature of the data and the solution goals.
 
 ## 5. Conclusion
-The Random Forest and Decision Tree models work best in the evaluation.
+The Random Forest and Decision Tree models work best in the evaluation.  
+ ![model_evaluation](img/model_evaluation.JPG)
