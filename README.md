@@ -35,10 +35,11 @@ https://www.kaggle.com/c/titanic/data
 * Naive Bayes classifier
 * XGboost
 * Decision Tree
-* Random Forrest  
- 
+* Random Forest  
+  
 
 
+ ![model_evaluation](img/model_evaluation.JPG)
 
 
 ## 4. Workflow of data  
@@ -56,3 +57,5 @@ https://www.kaggle.com/c/titanic/data
 
 - Charting. How to select the right visualization plots and charts depending on nature of the data and the solution goals.
 
+## 5. Conclusion
+The Random Forest and Decision Tree models work best in the evaluation.
