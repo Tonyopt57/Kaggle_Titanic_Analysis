@@ -56,4 +56,8 @@ https://www.kaggle.com/c/titanic/data
 
 ## 5. Conclusion
 The Random Forest and Decision Tree models work best in the evaluation.  
- ![model_evaluation](img/model_evaluation.JPG)
+ ![model_evaluation](img/model_evaluation.JPG)  
+ 
+ 
+ **Submission Result:
+ 85.7% Accuracy
